@@ -14,7 +14,7 @@
 - [ ] Linux Mint
 - [ ] Fedora
 
-* Operating System: [Arch Linux][https://archlinux.org/]
+* Operating System: [Arch Linux](https://archlinux.org/)
 * Display Manager: [ly][https://github.com/fairyglade/ly]
 * Window Manager: [spectrwm][https://github.com/conformal/spectrwm] 
 * Terminal: [kitty][https://github.com/kovidgoyal/kitty]
