@@ -9,7 +9,7 @@ dunst &
 lxsession &
 sxhkd -c ~/.config/spectrwm/sxhkdrc &
 xrdb -load ~/.config/x11/xresources &
-feh --no-fehbg --bg-scale ~/Pictures/Wallpapers/palmtrees.jpg &
+feh --no-fehbg --bg-scale ~/Pictures/Wallpapers/flowers.jpg &
 nm-applet &
 blueman-applet &
 flameshot &

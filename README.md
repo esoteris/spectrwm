@@ -1,5 +1,5 @@
 # dotfiles
-![showcase](./assets/kitty.png)
+![showcase](./assets/neofetch.png)
 
 <p align="center">
   <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/codelarosa/dotfiles/master?style=plastic">
