@@ -1,5 +1,4 @@
 # dotfiles
 
-![spectrwm](./assets/arch-linux.png)
-![discord](./assets/discord.png)
-![firefox](./assets/firefox.png)
+![showcase](./assets/kitty.png)
+![wallpaper](./assets/wallpapers/palmtrees.jpg)
