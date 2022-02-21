@@ -8,6 +8,12 @@
 * Memory: 16GB
 
 # Software
+### Operating System
+- [X] Arch Linux
+- [ ] Manjaro
+- [ ] Linux Mint
+- [ ] Fedora
+
 * Operating System: [Arch Linux][https://archlinux.org/]
 * Display Manager: [ly][https://github.com/fairyglade/ly]
 * Window Manager: [spectrwm][https://github.com/conformal/spectrwm] 
