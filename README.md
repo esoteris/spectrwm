@@ -1,4 +1,4 @@
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/codelarosa/dotfiles?style=plastic)
+<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/codelarosa/dotfiles?style=plastic">
 # Delarosa's dotfiles 
 ![showcase](./assets/kitty.png)
 
