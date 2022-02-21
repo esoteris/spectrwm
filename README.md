@@ -19,6 +19,6 @@
 * Window Manager: [spectrwm](https://github.com/conformal/spectrwm)
 * Terminal: [kitty](https://github.com/kovidgoyal/kitty)
 * Shell: [zsh](https://www.zsh.org/) + [oh-my-zsh](https://ohmyz.sh/) + [starship](https://starship.rs/)
-* Text Editor: [sublime text](https://www.sublimetext.com/] + [obsidian][https://obsidian.md/)
+* Text Editor: [sublime text](https://www.sublimetext.com/) + [obsidian](https://obsidian.md/)
 * IDE: [neovim nightly](https://github.com/neovim/neovim/releases)
 * Color Scheme: [catppuccin](https://github.com/catppuccin/catppuccin)
