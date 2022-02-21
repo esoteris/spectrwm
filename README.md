@@ -1,6 +1,4 @@
 # Delarosa's dotfiles 
----
-
 ![showcase](./assets/kitty.png)
 
 ---
