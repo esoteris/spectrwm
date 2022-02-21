@@ -2,7 +2,7 @@
 ![showcase](./assets/kitty.png)
 
 <p align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/codelarosa/dotfiles?style=plastic">
+  <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/codelarosa/dotfiles/master?style=plastic">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/codelarosa/dotfiles?style=plastic">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/codelarosa/dotfiles?style=plastic">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/codelarosa/dotfiles?style=plastic">
