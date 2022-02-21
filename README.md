@@ -1,4 +1,8 @@
-<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/codelarosa/dotfiles?style=plastic">
+
+<p align="center">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/codelarosa/dotfiles?style=plastic">
+</p>
+
 # Delarosa's dotfiles 
 ![showcase](./assets/kitty.png)
 
