@@ -1,0 +1,6 @@
+Sxiv.background: #1E1E2E
+Sxiv.foreground: #D9E0EE
+Sxiv.font: mono-10;
+Nsxiv.window.background: #1E1E2E
+Nsxiv.window.foreground: #D9E0EE
+Nsxiv.bar.font: mono-10;
