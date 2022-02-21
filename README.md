@@ -1,8 +1,6 @@
 # Delarosa's dotfiles 
 ![showcase](./assets/kitty.png)
 
----
-
 # Hardware
 * Host: Razer Blade 17" (Mid 2021)
 * CPU: 11th Gen Intel i7-11800H @ 4.6GHz
