@@ -1,4 +1,4 @@
-# dotfiles
+# spectrwm
 ![showcase](./assets/spectrwm.png)
 
 <p align="center">
